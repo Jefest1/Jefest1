@@ -9,14 +9,14 @@ I am a highly motivated and enthusiastic individual with a passion for Data Scie
 * 🌍  I'm based in Cape Coast, Ghana
 * ✉️  You can contact me at [anyanf101@gmail.com](mailto:anyanf101@gmail.com)
 * 🧠  I'm learning Supervised and Unsupervised Learning Algorithms
-* 🤝  I'm open to collaborating on I am looking to connect with like-minded individuals who share my passion for Data Science. I believe in the power of collaboration and I am eager to work with others to achieve our common goals in this field.
+* 🤝  I'm looking to connect with like-minded individuals who share my passion for Data Science. I believe in the power of collaboration and I am eager to work with others to achieve our common goals in this field.
 
 <a href="https://www.github.com/Jefest1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jefest1?logo=github&style=for-the-badge&color=10b981&labelColor=1e3a8a" /></a>
 
 ### Skills
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
@@ -37,21 +37,6 @@ src="https://img.shields.io/github/followers/Jefest1?logo=github&style=for-the-b
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_MATPLOTLIB_ICON" width="36" height="36" alt="Matplotlib" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_SKLEARN_ICON" width="36" height="36" alt="scikit-learn" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_SEABORN_ICON" width="36" height="36" alt="Seaborn" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_PANDAS_ICON" width="36" height="36" alt="Pandas" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_NUMPY_ICON" width="36" height="36" alt="NumPy" />
   </a>
 </p>
 

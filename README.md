@@ -1,9 +1,6 @@
 Hi 👋 My name is Festus Anyan
 =============================
 
-Student | Aspiring Data Scientist | Passionate About ML
--------------------------------------------------------
-
 I am a highly motivated and enthusiastic individual with a passion for Data Science. My goal is to become a skilled professional in the field and contribute to impactful projects. I am dedicated to continuous learning and exploring new technologies.
 
 * 🌍  I'm based in Cape Coast, Ghana

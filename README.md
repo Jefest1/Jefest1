@@ -1,12 +1,19 @@
 Hi 👋 My name is Festus Anyan
 =============================
 
-I am a highly motivated and enthusiastic individual with a passion for Data Science. My goal is to become a skilled professional in the field and contribute to impactful projects. I am dedicated to continuous learning and exploring new technologies.
-
-* 🌍  I'm based in Cape Coast, Ghana
-* ✉️  You can contact me at [anyanf101@gmail.com](mailto:anyanf101@gmail.com)
-* 🧠  I'm learning Supervised and Unsupervised Learning Algorithms
-* 🤝  I'm looking to connect with like-minded individuals who share my passion for Data Science. I believe in the power of collaboration and I am eager to work with others to achieve our common goals in this field.
+I am a self-motivated and results-oriented AI/ML Engineer with expertise in traditional and 
+deep-learning algorithms, containerization with Docker, and production deployment of 
+FastAPI applications on Microsoft Azure. I have built and deployed services using both 
+open-source and proprietary large-language models, and I have strong skills in Python and 
+Streamlit for rapid prototyping and proof-of-concept development. 
+My current work explores agentic AI systems with LangChain/LangGraph, OpenAI’s Agents 
+SDK, and Google’s Agent Development Kit, as well as interoperability protocols such as 
+Google Agent-to-Agent (A2A) and Anthropic Model Context Protocol (MCP). I also 
+investigate generative AI more broadly, including advanced prompt engineering, model 
+evaluation, and integration with external data and tools. 
+I apply AI and machine learning to healthcare, agriculture, and finance, with a focus on 
+delivering meaningful, scalable solutions. My goal is to become a highly skilled AI/ML 
+Engineer who drives impact in these fields. 
 
 <a href="https://www.github.com/Jefest1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jefest1?logo=github&style=for-the-badge&color=10b981&labelColor=1e3a8a" /></a>
